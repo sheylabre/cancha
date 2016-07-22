@@ -1,0 +1,60 @@
+.pasto{
+	background-color: #8CB27C;
+	width: 805px;
+	height: 505px;
+}
+.borde{
+	background-color: #8CB27C;
+	width: 760px;
+	height: 460px;
+	border: 2px solid white;
+	position:relative;
+	top:20px; 
+	left:20px;
+}
+.aro1{
+	background-color: #8CB27C;
+	width: 120px;
+	height: 200px;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	border-right: 2px solid white;
+	position: absolute;
+	top: 120px;
+}
+.aro2{
+	background-color: #8CB27C;
+	width: 120px;
+	height: 200px;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	border-left: 2px solid white;
+	position: absolute;
+	top: 120px;
+	left:638px;
+}
+.circulo{
+	background-color: #8CB27C;
+	width: 200px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 50%;
+	position: absolute;
+	top: 120px;
+	left:300px;
+}
+.b1{
+	position: absolute;
+	top: 125px;
+	left: 110px;
+}
+.b2{
+	position: absolute;
+	top: 50px;
+	left: 410px;
+}
+.b3{
+	position: absolute;
+	top: 290px;
+	left: 610px;
+}
